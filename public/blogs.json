@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "title": "The Rise of AI in Everyday Life",
+    "author": "Jane Doe",
+    "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "posted_date": "2025-05-28",
+    "reading_time": "5",
+    "hashtags": ["#AI", "#Technology", "#Future"]
+  },
+  {
+    "id": "2",
+    "cover": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a",
+    "title": "10 Habits of Highly Productive People",
+    "author": "John Smith",
+    "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+    "posted_date": "2025-06-01",
+    "reading_time": "7",
+    "hashtags": ["#Productivity", "#Habits", "#SelfImprovement"]
+  },
+  {
+    "id": "3",
+    "cover": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad",
+    "title": "Exploring the Hidden Gems of Europe",
+    "author": "Emily Clark",
+    "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
+    "posted_date": "2025-05-15",
+    "reading_time": "6",
+    "hashtags": ["#Travel", "#Europe", "#Wanderlust"]
+  },
+  {
+    "id": "4",
+    "cover": "https://images.unsplash.com/photo-1581091012184-7f55d4d8582e",
+    "title": "Mastering the Art of Minimalist Design",
+    "author": "Michael Lee",
+    "author_img": "https://randomuser.me/api/portraits/men/45.jpg",
+    "posted_date": "2025-05-30",
+    "reading_time": "4",
+    "hashtags": ["#Design", "#Minimalism", "#Creativity"]
+  },
+  {
+    "id": "5",
+    "cover": "https://images.unsplash.com/photo-1518544888063-b0fef1430736",
+    "title": "How to Start Investing with Little Money",
+    "author": "Sophia Reyes",
+    "author_img": "https://randomuser.me/api/portraits/women/52.jpg",
+    "posted_date": "2025-06-03",
+    "reading_time": "8",
+    "hashtags": ["#Investing", "#Finance", "#MoneyTips"]
+  }
+]
