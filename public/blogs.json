@@ -6,7 +6,7 @@
     "author": "Jane Doe",
     "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
     "posted_date": "2025-05-28",
-    "reading_time": "5",
+    "reading_time": 5,
     "hashtags": ["#AI", "#Technology", "#Future"]
   },
   {
@@ -16,7 +16,7 @@
     "author": "John Smith",
     "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
     "posted_date": "2025-06-01",
-    "reading_time": "7",
+    "reading_time": 7,
     "hashtags": ["#Productivity", "#Habits", "#SelfImprovement"]
   },
   {
@@ -26,27 +26,27 @@
     "author": "Emily Clark",
     "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
     "posted_date": "2025-05-15",
-    "reading_time": "6",
+    "reading_time": 6,
     "hashtags": ["#Travel", "#Europe", "#Wanderlust"]
   },
   {
     "id": "4",
-    "cover": "https://images.unsplash.com/photo-1581091012184-7f55d4d8582e",
+    "cover": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad",
     "title": "Mastering the Art of Minimalist Design",
-    "author": "Michael Lee",
-    "author_img": "https://randomuser.me/api/portraits/men/45.jpg",
+    "author": "Emily Clark",
+    "author_img":"https://randomuser.me/api/portraits/women/68.jpg",
     "posted_date": "2025-05-30",
-    "reading_time": "4",
+    "reading_time": 4,
     "hashtags": ["#Design", "#Minimalism", "#Creativity"]
   },
   {
     "id": "5",
-    "cover": "https://images.unsplash.com/photo-1518544888063-b0fef1430736",
+    "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
     "title": "How to Start Investing with Little Money",
     "author": "Sophia Reyes",
-    "author_img": "https://randomuser.me/api/portraits/women/52.jpg",
+    "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
     "posted_date": "2025-06-03",
-    "reading_time": "8",
+    "reading_time": 8,
     "hashtags": ["#Investing", "#Finance", "#MoneyTips"]
   }
 ]
